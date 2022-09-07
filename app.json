@@ -22,6 +22,8 @@
         },
         "ADMIN": {
             "description":"Add Your User ID @MT_ID_Bot"
+            "value":"1062309883"
+
         },
         "DB_URL": {
             "description": "Your Mongo DB URL Obtained From https://youtu.be/mD9veNL7KoE",
